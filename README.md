@@ -1,4 +1,5 @@
-![Banner readme](https://user-images.githubusercontent.com/69479452/222053676-e87f34f4-5032-4e64-bd50-351ac0ecfa12.jpg)
+![Banner readme](https://user-images.githubusercontent.com/69479452/222054044-8677cc53-a665-4cb3-b5b3-b7774d577ff8.jpg)
+
 
 
 # Renewable Energy Gallery for Hololens 2
